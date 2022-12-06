@@ -1,0 +1,7 @@
+Some general Questions regarding designe and developments of the Digital Learning platform.
+
+1. Who are the audiences ? (Who are the students)
+2. How much material (Theory), animations, codes etc. we can take from open sources, available thirdparty resource etc.
+
+
+
