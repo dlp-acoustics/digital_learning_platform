@@ -1,0 +1,27 @@
+https://learn.unity.com/tutorial/
+https://asknow.acoucou.org/
+https://www.edx.org/school/rwthx
+https://learning.edx.org/course/course-v1:RWTHTUMx+CA101.2x+3T2021/home
+https://learning.edx.org/course/course-v1:RWTHTUMx+CA101.2x+3T2021/block-v1:RWTHTUMx+CA101.2x+3T2021+type@sequential+block@3807b6e727d34ac1b330fb277796fccf/block-v1:RWTHTUMx+CA101.2x+3T2021+type@vertical+block@61da2fb6b24f4d1ba871bd518d114919
+
+Fundamentals / wave physics
+http://resource.isvr.soton.ac.uk/spcg/tutorial/tutorial/StartCD.htm
+https://www.compadre.org/books/SoundBook
+https://www.acs.psu.edu/drussell/
+https://www.whyyouhearwhatyouhear.com/
+https://engineering.purdue.edu/ME513/
+
+Room acoustics
+https://amcoustics.com/tools/amroc
+http://interactiveacoustics.info/
+https://www.hunecke.de/en/index.html
+
+Acoustic materials
+https://apmr.matelys.com/index.html
+
+TUM COMSOL library
+https://www.apps.vib.mw.tum.de:2037/app-lib
+
+Engineering Toolbox
+https://www.engineeringtoolbox.com/
+http://www.sengpielaudio.com/
