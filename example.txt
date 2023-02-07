@@ -10,3 +10,5 @@ Second changes
 Example 
 
 My branch
+
+New changes
